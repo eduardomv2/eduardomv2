@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align="right" alt="img" src="https://github.com/eduardomv2/eduardomv2/assets/87501782/01e5bee7-1670-4a61-ae3e-641123ce962b" width="50%" height="auto" />
+<!--
 ![Img](https://github.com/eduardomv2/eduardomv2/assets/87501782/01e5bee7-1670-4a61-ae3e-641123ce962b)
 
 <!--
