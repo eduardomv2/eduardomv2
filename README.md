@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
-<img align="right" alt="img" src="https://github.com/eduardomv2/eduardomv2/assets/87501782/01e5bee7-1670-4a61-ae3e-641123ce962b" width="80%" height="auto" />
+<img align="right" alt="img" src="https://github.com/eduardomv2/eduardomv2/assets/87501782/01e5bee7-1670-4a61-ae3e-641123ce962b" width="60%" height="auto" />
 <!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eduardomv2)
 <!--
