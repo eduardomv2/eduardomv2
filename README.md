@@ -5,6 +5,14 @@ I am Eduardo Villalobos and I am currently finishing my Computer Engineering at 
 
 <img align="right" alt="img" src="https://github.com/eduardomv2/eduardomv2/assets/87501782/01e5bee7-1670-4a61-ae3e-641123ce962b" width="60%" height="auto" />
 
+
+
+
+
+
+
+
+
 #### 🔭 Things I am currently working on: 
 - Punto Total with C#
 - Mobile Aplication with Dart 
