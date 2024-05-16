@@ -1,9 +1,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true)
+
+
+<!--
+[![Readme Card](https://github-readme-stats-rho-one-71.vercel.app/api/pin/?username=eduardomv2&repo=github-readme-stats)](https://github.com/eduardomv2/eduardomv2)
 
 <!--
 
