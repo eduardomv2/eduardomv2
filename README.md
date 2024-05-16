@@ -1,24 +1,16 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
+![Anurag's GitHub stats](https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=transparent)
 
-<picture>
-  <source
-    srcset="github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true" />
-</picture>
-
-
-
-
+![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true)
 
 <!--
+
+VERCEL:
+github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2
+
+
 // I am Eduardo Villalobos and I am currently finishing my Computer Engineering at the university!  
 
 <img align="right" alt="img" src="https://github.com/eduardomv2/eduardomv2/assets/87501782/01e5bee7-1670-4a61-ae3e-641123ce962b" width="60%" height="auto" />
