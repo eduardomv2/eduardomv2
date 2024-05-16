@@ -1,7 +1,20 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
-![Eduardomv GitHub stats](github-readme-stats-rho-one-71.vercel.app)
+
+<picture>
+  <source
+    srcset="github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true" />
+</picture>
+
+
 
 
 
