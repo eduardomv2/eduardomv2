@@ -1,5 +1,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
+
+![Eduardomv GitHub stats](github-readme-stats-rho-one-71.vercel.app)
+
+
+
 <!--
 // I am Eduardo Villalobos and I am currently finishing my Computer Engineering at the university!  
 
