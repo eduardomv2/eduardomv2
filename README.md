@@ -3,7 +3,7 @@
 
 ![GitHub stats](https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true)
+![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true&theme=radical)
 
 
 <!--
