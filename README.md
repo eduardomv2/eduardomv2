@@ -3,12 +3,10 @@
 
 ![GitHub stats](https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html)
+![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=radical)
 
 <!--
+![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true&theme=radical)
 [![Readme Card](https://github-readme-stats-rho-one-71.vercel.app/api/pin/?username=eduardomv2&repo=github-readme-stats)](https://github.com/eduardomv2/eduardomv2)
 
 <!--
