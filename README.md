@@ -1,14 +1,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
+Hi there👋, my name is Eduardo 
+
+Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA - 
+
+
+
+
+--------------------------
 <div align="left">
-  
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
-
-
-
-
 <div/>
 
 
