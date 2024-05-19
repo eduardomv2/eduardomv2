@@ -3,8 +3,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=tokyonight" alt="Top Languages" style="width: 26%; height: auto;">  
-  <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=tokyonight" alt="GitHub stats" style="width: 59%; height: auto;">
+  <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=tokyonight" alt="Top Languages" style="width: 30%; height: auto;">  
+  <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=tokyonight" alt="GitHub stats" style="width: 69%; height: auto;">
   
 <div/>
 <!--
