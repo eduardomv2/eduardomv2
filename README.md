@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
-Hi there👋, my name is Eduardo 
+<h3>Hi there👋, my name is Eduardo </h3>
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA - 
 
