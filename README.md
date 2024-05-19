@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
-![](https://komarev.com/ghpvc/?username=eduardomv2)
+
 <h3>Hi there👋, my name is Eduardo </h3>
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
@@ -11,12 +11,8 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
 <div/>
   
-
-
-
-
 <!--
-
+------------
 Readme stats:
 
 ANOTTHER README STATS
@@ -33,7 +29,7 @@ ligth
 stats size:
 style="width: 25%;"
 style="width: 57%;"
-
+------------
 
 VERCEL:
 github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2
