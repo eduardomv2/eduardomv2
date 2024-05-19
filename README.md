@@ -3,7 +3,7 @@
 
 Hi there👋, my name is Eduardo 
 
-<H3>Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA - </H3>
+Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA - 
 
 --------------------------
 <div align="left">
