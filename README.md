@@ -4,10 +4,6 @@
 Hi there👋, my name is Eduardo 
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA - 
-
-
-
-
 --------------------------
 <div align="left">
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
