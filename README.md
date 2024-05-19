@@ -3,21 +3,38 @@
 
 <div align="left">
   
-  <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub stats" style="width: 59%">
-  <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=dark#gh-dark-mode-only" alt="Top Languages" style="width: 26%">  
-  
+  <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
+  <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
+
+
+
+
 <div/>
-   
-<!--
-style="width: 25%;"
-style="width: 57%;"
-![Top Langs](https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide_progress=true&theme=radical)
-[![Readme Card](https://github-readme-stats-rho-one-71.vercel.app/api/pin/?username=eduardomv2&repo=github-readme-stats)](https://github.com/eduardomv2/eduardomv2)
+
 
 <!--
+
+Readme stats  
+[![Readme Card](https://github-readme-stats-rho-one-71.vercel.app/api/pin/?username=eduardomv2&repo=github-readme-stats)](https://github.com/eduardomv2/eduardomv2)
+
+THEMES:
+theme=dark#gh-dark-mode-only
+dark
+ligth
+
+stats size:
+style="width: 25%;"
+style="width: 57%;"
+
 
 VERCEL:
 github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2
+
+
+
+
+
+
 
 
 // I am Eduardo Villalobos and I am currently finishing my Computer Engineering at the university!  
