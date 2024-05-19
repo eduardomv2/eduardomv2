@@ -6,7 +6,7 @@
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 
 --------------------------
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
 <div/>
