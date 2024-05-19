@@ -3,7 +3,7 @@
 
 <div align="left">
   
-  <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=transparent" alt="Top Languages" style="width: 26%; height: auto;">  
+  <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=default#gh-light-mode-only" alt="Top Languages" style="width: 26%; height: auto;">  
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=transparent" alt="GitHub stats" style="width: 59%; height: auto;">
   
 <div/>
