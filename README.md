@@ -8,7 +8,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 * Workin on:
   * [InfoTec](https://github.com/eduardomv2/Infotec) - description....
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - description...
-    * [Recursos Readme]
+    * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - 🌟Inspiration for you Readme Profile
 * Currently exploring **Flutter**, **JS** and **Dart**
 
 --------------------------
