@@ -5,9 +5,10 @@
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 
-* Im workin on:
+* Workin on:
   * [InfoTec](https://github.com/eduardomv2/Infotec) - description....
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - description...
+    * [Recursos Readme]
 * Currently exploring **Flutter**, **JS** and **Dart**
 
 --------------------------
