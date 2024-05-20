@@ -6,13 +6,8 @@
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 
 * Im workin on:
-  * [InfoTec](https://github.com/martinothamar/Mediator) - a fast (close to 0 overhead) sourcegenerator-based mediator pattern implementation in .NET. Mostly MediatR-compatible, but faster
-  * [Fast.PRNGs.NET](https://github.com/martinothamar/Fast.PRNGs.NET) - fast PRNG implementations (up to 2.5x faster than `System.Random`)
-  * [simd-rand](https://github.com/martinothamar/simd-rand) - SIMD implementations of common PRNGs in Rust 🦀 (for example Xoshiro256+ ~60 GiB/s u64 gen using AVX512 on my laptop, about 6x faster than non-vectorized)
-  * ["building x in y"](https://github.com/martinothamar/building-x-in-y) - experiments and learning about systems programming, programming languages, architectures and designs
-    * [Simulating football seasons using the Monte Carlo method in Rust](https://github.com/martinothamar/building-x-in-y/tree/main/monte-carlo-sim) - lots of SIMD and performance engineering
-    * [HTTP servers](https://github.com/martinothamar/building-x-in-y/tree/main/http-server) - experimenting with various techniques and architectures for performent HTTP servers: IO Uring, Linux, thread-per-core...
-    * [Calculation Engine](https://github.com/martinothamar/building-x-in-y/tree/main/calculation-engine) - calculatione engine with a builder API for creating formulas while doing vectorized calculations over columns of data
+  * [InfoTec](https://github.com/eduardomv2/Punto-Total) - description....
+  * [Punto Total](https://github.com/eduardomv2/Punto-Total) - description...
 * Currently exploring **Flutter**, **JS** and **Dart**
 
 --------------------------
