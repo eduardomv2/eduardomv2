@@ -1,8 +1,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
+<!--
 ### Hi there👋, my name is Eduardo 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Still+learning;Second+line+of+text)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&lines=should+I+say+something+interesting%3F+;still+learning+.NET+environment+%5E%5E)](https://git.io/typing-svg)
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 * Working on:   
@@ -10,7 +12,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   * [InfoTec](https://github.com/eduardomv2/Infotec) - soon....
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - description...
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile. 
-* Currently exploring **Stack .Net** 
+* Currently exploring **Flutter** 
 
 --------------------------
 <div align="center">
@@ -19,6 +21,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 <div/>
 
 ------------
+<!--
 
 🟢Concursos y Experiencias:
 
