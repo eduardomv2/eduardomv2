@@ -2,15 +2,15 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
 ### Hi there👋, my name is Eduardo 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Still+learning;Second+line+of+text)](https://git.io/typing-svg)
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
-
 * Working on:   
   * [Lux](https://github.com/eduardomv2/Lux) - soon.... 
   * [InfoTec](https://github.com/eduardomv2/Infotec) - soon....
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - description...
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile. 
-* Currently exploring **JS**, **Flutter** and **KOTLIN**
+* Currently exploring **Stack .Net** 
 
 --------------------------
 <div align="center">
@@ -18,9 +18,11 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   <img src="https://github-readme-stats-rho-one-71.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
 <div/>
 
+------------
+
+🟢Concursos y Experiencias:
 
 <!--
-------------
 🌟 Readme stats:
 
 ANOTTHER README STATS
@@ -28,7 +30,7 @@ ANOTTHER README STATS
 
 REPO EXAMPLE
 [![Readme Card](https://github-readme-stats-rho-one-71.vercel.app/api/pin/?username=eduardomv2&repo=github-readme-stats)](https://github.com/eduardomv2/eduardomv2)
-
+<!--
 THEMES:
 theme=dark#gh-dark-mode-only
 dark
