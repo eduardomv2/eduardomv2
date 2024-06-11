@@ -12,7 +12,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   * [InfoTec](https://github.com/eduardomv2/Infotec) - soon....
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - description...
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile. 
-* Currently exploring **Flutter** 
+* Currently exploring **MAUI** 
 
 --------------------------
 <div align="center">
