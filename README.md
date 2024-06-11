@@ -4,7 +4,7 @@
 <!--
 ### Hi there👋, my name is Eduardo 
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=should+I+say+something+interesting%3F+;still+learning+.NET+environment+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 * Working on:   
