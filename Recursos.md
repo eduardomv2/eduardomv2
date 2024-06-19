@@ -3,7 +3,7 @@
 
 
 
-#### INSIPARACION ⭐
+#### INSIPARACION 
 
 https://github.com/martinothamar/martinothamar/blob/main/README.md
 
