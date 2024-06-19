@@ -1,11 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
-<!--
 ### Hi there👋, my name is Eduardo 
--->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
-
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 * Working on:   
   * [Lux](https://github.com/eduardomv2/Lux) - App to help communication in children with ASD
@@ -15,6 +11,10 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 * Currently exploring **MAUI** 
 
 --------------------------
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
+
+
 <div align="center">
   <img src="https://github-readme-stats-6y3q.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
   <img src="https://github-readme-stats-6y3q.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
