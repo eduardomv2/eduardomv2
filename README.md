@@ -12,18 +12,17 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 
 --------------------------
 
-
 <div align="center">
   <img src="https://github-readme-stats-6y3q.vercel.app/api?username=eduardomv2&rank_icon=github&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
   <img src="https://github-readme-stats-6y3q.vercel.app/api/top-langs/?username=eduardomv2&hide=javascript,html&theme=ligth" alt="Top Languages" style="width: 26%">  
 <div/>
-
+ 
 ------------
-🟢🟢 
+⚪⚪
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&random=false&width=435&lines=Readme+Stats+that+no+one+reads;Still+learning+the+.Net+environment;What+else+should+I+say%3F)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2)](https://git.io/streak-stats)
+
 
 
 <!--
@@ -32,6 +31,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 <!--
 
 🌟 Readme stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2)](https://git.io/streak-stats)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&center=true&random=false&width=435&lines=Readme+Stats+that+no+one+reads;Still+learning+.Net+Enviroment+;oh!+you+still+here)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
