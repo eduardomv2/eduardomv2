@@ -4,15 +4,13 @@
 ### Hi there👋, my name is Eduardo 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 * Working on:   
-  * [Lux](https://github.com/eduardomv2/Lux) - App to help communication in children with ASD
-  * [InfoTec](https://github.com/eduardomv2/Infotec) - Here you can register the machines you have helped in college (Project only for my University)
-  * [Punto Total](https://github.com/eduardomv2/Punto-Total) - This app makes the break-even point of your business as well as managing inventory
+  * [Lux](https://github.com/eduardomv2/Lux) - App to help communication in children with ASD 🌟
+  * [InfoTec](https://github.com/eduardomv2/Infotec) - Here you can register the machines you have helped in college (Project only for my University) 💻
+  * [Punto Total](https://github.com/eduardomv2/Punto-Total) - This app makes the break-even point of your business as well as managing inventory 💡
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile. 
 * Currently exploring **MAUI** 
 
 --------------------------
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -21,13 +19,18 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 <div/>
 
 ------------
-<!--
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&center=true&random=false&width=435&lines=Readme+Stats+that+no+one+reads;Still+learning+.Net+Enviroment+;oh!+you+still+here)](https://git.io/typing-svg)
+
+
+<!--
 🟢Concursos y Experiencias:
 
 <!--
+
 🌟 Readme stats:
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
 ANOTTHER README STATS
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2)](https://git.io/streak-stats)
 
