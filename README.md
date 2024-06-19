@@ -20,7 +20,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 ------------
 ⚪⚪
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&random=false&width=435&lines=Readme+Stats+that+no+one+reads;Still+learning+.Net+Environment;What+else+should+I+say%3F)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&random=false&width=380&lines=Readme+Stats+that+no+one+reads;Still+learning+.Net+Environment;What+else+should+I+say%3F)](https://git.io/typing-svg)
 
 
 
