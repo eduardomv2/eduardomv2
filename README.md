@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-villalobos-089b76244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
-[![PV](https://komarev.com/ghpvc/?username=eduardomv2s&label=Profile%20views&color=0e75b6&style=flat)](mailto:eduardoalejandro.v.mtz@gmail.com)
+[![](https://komarev.com/ghpvc/?username=eduardomv2s&label=Profile%20views&color=0e75b6&style=flat)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
 ### Hi there👋, my name is Eduardo 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
