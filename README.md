@@ -5,7 +5,7 @@
 ### Hi there👋, my name is Eduardo 
 Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
 * Working on:   
-  * [Lux](https://github.com/eduardomv2/Lux) - App to help communication in children with ASD 🌟
+  * [Lux](https://github.com/eduardomv2/LUX-APP) - App to help communication in children with ASD 🌟
   * [InfoTec](https://github.com/eduardomv2/Infotec) - Here you can register the machines you have helped in college (Project only for my University) 
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - This app makes the break-even point of your business as well as managing inventory
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile. 
