@@ -22,11 +22,14 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 <div/>
  
 ------------
+
 ⚪⚪
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2&theme=meta-light&border_radius=15)](https://git.io/streak-stats)
 
-<div align="left">
+
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -59,6 +62,8 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+
 
 
 
