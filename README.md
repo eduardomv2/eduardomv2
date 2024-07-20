@@ -28,6 +28,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2&theme=meta-light&border_radius=15)](https://git.io/streak-stats)
 
 
+<h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
