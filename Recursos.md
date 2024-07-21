@@ -21,3 +21,5 @@
 #### markdown-badges:
 - https://github.com/Ileriayo/markdown-badges
 
+#### icons:
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file#centering-icons
