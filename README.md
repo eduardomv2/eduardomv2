@@ -24,8 +24,6 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 
 ⚪⚪
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2&theme=meta-light&border_radius=19)](https://git.io/streak-stats)
-
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=cs,java,js,dotnet,html,css,mysql,azure,figma" height="40"/>
@@ -37,6 +35,8 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 
 🌟 Readme stats:
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2&theme=meta-light&border_radius=19)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
 
