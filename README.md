@@ -9,9 +9,8 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   * [InfoTec](https://github.com/eduardomv2/Infotec) - Here you can register the machines you have helped in college (Project only for my University) 
   * [Punto Total](https://github.com/eduardomv2/Punto-Total) - This app makes the break-even point of your business as well as managing inventory
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile.  
-* Currently exploring **MAUI** 
-
-
+* Currently exploring **MAUI**
+  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&random=false&width=380&lines=Readme+Stats+that+no+one+reads..;Still+learning+.Net+Environment;What+else+should+I+say%3F)](https://git.io/typing-svg)
 
 --------------------------
@@ -25,11 +24,7 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
 
 ⚪⚪
 
-
- 
  [![GitHub Streak](https://streak-stats.demolab.com?user=eduardomv2&theme=meta-light&border_radius=19)](https://git.io/streak-stats)
-
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,15 +32,10 @@ Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA
   </a>
 </p>
 
-
-
-
-
 <!--
 🟢Concursos y Experiencias:
 
 🌟 Readme stats:
-
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3690&pause=500&color=19C84F&background=FF191900&vCenter=true&random=false&width=450&height=25&lines=still+learning+.NET+environment+%5E%5E;should+I+say+something+interesting%3F)](https://git.io/typing-svg)
