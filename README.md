@@ -3,14 +3,6 @@
 [![](https://komarev.com/ghpvc/?username=eduardomv2s&label=Profile%20views&color=0e75b6&style=flat)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
 ### Hi there👋, my name is Eduardo 
-Im currently finishing my Computer Engineering at the university @TECNM MONCLOVA 
-* Working on:   
-  * [Lux](https://github.com/eduardomv2/LUX-APP) - App to help communication in children with ASD 🌟
-* Currently exploring **MAUI, ASP.NET, JAVA, WPF, JS**
-  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF77E&random=false&width=380&lines=Readme+Stats+that+no+one+reads..;Still+learning+.Net+Environment;What+else+should+I+say%3F)](https://git.io/typing-svg)
-
---------------------------
 
 <div align="center">
   <img src="https://github-readme-stats-6y3q.vercel.app/api?username=eduardomv2&show_icons=true&theme=ligth" alt="GitHub stats" style="width: 59%">
