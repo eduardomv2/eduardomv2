@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eduardoalejandromv/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
+
 [![](https://komarev.com/ghpvc/?username=eduardomv2s&label=Profile%20views&color=0e75b6&style=flat)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
 ⚪⚪
@@ -11,6 +11,7 @@
 </p>
 
 <!--
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eduardoalejandro.v.mtz@gmail.com)
 
  * [Punto Total](https://github.com/eduardomv2/Punto-Total) - This app makes the break-even point of your business as well as managing inventory
     * [Recursos Readme](https://github.com/eduardomv2/eduardomv2/blob/main/Recursos.md) - Tools for your Readme Profile.  
